@@ -1,5 +1,5 @@
 body{
-    color: #333;
+    color: red;
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -20,7 +20,7 @@ body{
 #cabecera #tagline{
     padding: 0 0 0 1em;
     font-weight: normal;
-    font-size: 0.0em;
+    font-size: 0.8em;
 }
 
 #container{
