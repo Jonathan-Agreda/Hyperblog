@@ -1,4 +1,4 @@
-# Hyperblog :tw-1f310:
+# Hyperblog 💝
 Un blog increíble para Git y Github de Platzi
 >El curso de Git y GitHub de Platzi es lo que me hacia falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintética con Machine Learning
 >- niñita
